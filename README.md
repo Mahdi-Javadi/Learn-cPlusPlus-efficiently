@@ -1,2 +1,2 @@
-# Learn-C++-Efficiently
+# Learn C++ Efficiently
 I am intending to publish an easy way for those who wants to learn C++ practically. No jargons and complications!. Each day, one step!
