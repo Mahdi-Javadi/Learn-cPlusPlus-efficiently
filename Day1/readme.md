@@ -19,7 +19,7 @@ Note: You can use the IDEs that do all these steps automatically. Here is the li
 ###Code Description : 
 
 This is the first project in C++ in a terminal. All you need to know.
-In order to take advantage of input/out put >> #include <iostream>.
+In order to take advantage of input/output >> #include <iostream>.
 std::cout >> allows you to display the results(on the termianl for exmaple).
 std::endl >> allows you to jump to a new line when you display the results.
 The commands in C++ must have ; (semicolon) at the end.
