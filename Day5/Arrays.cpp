@@ -1,6 +1,6 @@
 #include<iostream>
 using std::cout;
-using std::cin;
+using std::endl;
 int main(){
     cout<< "I want to print out the elements of my array:\n ";
     int my_array [] {10,20,30,40};
