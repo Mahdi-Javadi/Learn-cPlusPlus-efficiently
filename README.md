@@ -17,4 +17,20 @@ This journey is started with the _Hello World_ project, which basically just dis
 We will continue with the data types and variable declerations and write a program that get an input from the user and display it.
 
 
+Here is a ten-day scope :
+
+* Day1: Hello world!
+* Day2: display something on screen/get something from user
+* Day3: Comments and variables
+* Day4: Basic arithmetics
+* Day5: Conditional statements
+* Day6: Loops
+* Day7: Common datatypes
+* Day8: function
+* Day9: pointers
+* Day10: playnig with all the things we have learned
+
+
+
+
 
