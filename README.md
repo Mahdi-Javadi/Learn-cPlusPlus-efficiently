@@ -19,7 +19,7 @@ We will continue with the data types and variable declerations and write a progr
 
 Here is a ten-day scope :
 
-* Day1: Hello world!
+* [Day1](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently/tree/master/Day1): Hello world!
 * Day2: Display something on screen/get something from user
 * Day3: Comments and variables
 * Day4: Basic arithmetics
