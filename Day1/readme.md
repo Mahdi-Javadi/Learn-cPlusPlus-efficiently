@@ -5,7 +5,7 @@ We can write C++ codes using terminal or [IDE][ref_ide]s. This program is writte
 ## Steps:
 
 1. Open a terminal
-2. Generate an editor: gedit `helloWorld.cpp`
+2. Generate an editor: `gedit helloWorld.cpp`
 3. Write down the code in the editor
 4. Save the changes and close the editor
 5. Now you need to execute your file, this can be done by any compiler, e.g. `g++`, `gcc`
@@ -13,9 +13,7 @@ We can write C++ codes using terminal or [IDE][ref_ide]s. This program is writte
 7. Now that the executable file of the `helloWorld.cpp` is generated
 8. It can be executed by:  `./helloWorld_ExFile`
 
-__*Note*__: You can use the [IDE][ref_ide]s that do all these steps automatically.
-
-***CodeLite*** can be a good choice!
+__*Note*__: You can use the [IDE][ref_ide]s that do all these steps automatically. ***CodeLite*** can be a good choice!
 
 
 ## Code Description : 
@@ -32,11 +30,14 @@ int main(){
 This is the first project in C++ in a terminal. Here is all you need to know:
 
 
-    #include <iostream>: In order to take advantage of input/output
-    std::cout >> allows you to display the results(on the termianl for exmaple).
-    std::endl >> allows you to jump to a new line when you display the results.
-    The commands in C++ must have ; (semicolon) at the end.
-    Each program in C++ must have a main() function. The execution of the program begins with this _main_ function. Curly brackets __{}__ shows the beginning and end of the function If it works correctly, it returns integer 0.
+* `#include <iostream>`: In order to take advantage of input/output
+* `std::cout`: Allows you to display the results,e.g. on the termianl.
+* `std::endl`: Allows you to jump to a new line when you display the results.
+* `;`: The commands in C++ must have  (semicolon) at the end.
+* `main()`: Each program in C++ must have a  function. The execution of the program begins with this function. 
+* `{}`: Shows the beginning and end of the function
+* `int` : If the program compiles correctly then it returns the ***integer** *0*.
+
 In this program, we display "Hello World!" on the output. Then we go to the next line.
 
 [ref_ide]: https://hackr.io/blog/cpp-ide
