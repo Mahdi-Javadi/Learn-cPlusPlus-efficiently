@@ -19,11 +19,9 @@ __*Note*__: You can use the [IDE][ref_ide]s that do all these steps automaticall
 ## Code Description : 
 ```
 #include <iostream>
-using std::cout;
-using std::endl;
 
 int main(){
-    cout<<"Hello World!"<<endl;
+    std::cout<<"Hello World!"<<std::endl;
     return 0;
 }
 ```
@@ -31,12 +29,12 @@ This is the first project in C++ in a terminal. Here is all you need to know:
 
 
 * `#include <iostream>`: In order to take advantage of input/output
-* `std::cout`: Allows you to display the results,e.g. on the termianl.
+* `std::cout`: Allows you to display the results, e.g. on the terminal.
 * `std::endl`: Allows you to jump to a new line when you display the results.
-* `;`: The commands in C++ must have  (semicolon) at the end.
-* `main()`: Each program in C++ must have a  function. The execution of the program begins with this function. 
-* `{}`: Shows the beginning and end of the function
-* `int` : If the program compiles correctly then it returns the ***integer** *0*.
+* `;`: The commands in C++ must have `;` at the end.
+* `main()`: Every program in C++ must have a  function. The execution of the program begins with this function. 
+* `{}`: Shows the beginning and end of the function(block).
+* `int` : If the program compiles correctly then it returns the ***integer*** *0*.
 
 In this program, we display "Hello World!" on the output. Then we go to the next line.
 
