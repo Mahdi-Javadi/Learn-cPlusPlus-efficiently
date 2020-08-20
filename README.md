@@ -11,7 +11,7 @@ Before start, let's have an **overview of the whole journey**:
 * For each topic a link is provided in the readme file, for those who wants to gain in-depth knowledge in that topic.
 
 
-This journey is started with the _Hello World_ project, which basically just display a text in the output.
+This journey is started with the [_Hello World_](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently/tree/master/Day1) project, which basically just display a text in the output.
 
 
 We will continue with the data types and variable declerations and write a program that get an input from the user and display it.
