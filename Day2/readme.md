@@ -1,20 +1,30 @@
 # Instruction
-1- _**#include<iostream>**_: for the input/output.\
-2- _**using std::cout**_: to prevent typing _std::_ each time we want to display something.\
-3- _**using std::cin**_ : to prevent typing _std::_ each time we want to get anything from user.\
-4- _**using std::endl**_: to prevent typing _std::_ each time we want to add a new line in the output.\
-5- Each C++ program must have at least a main function with the format :\
+
+## Steps:
+
+- `#include<iostream>`: In order to take advantage of input/output.\
+- `std::cout` followed by `<<`: Allows you to display the results, e.g. on the terminal.\
+- `std::cin` followed by `>>`: Allows you to get input from the user.\
+- `std::endl`: Allows you to jump to a new line when you display the results.\
+- Each C++ program must have at least a `main()` function with the format :\
 ```
 int main()
 {
     
-        //commands
+        //statements
     
         return 0;
 }
 ```
-6- Display the text in the output by using _**cout**_ <<(extraction operator)\
-7- Declaration of the integer variable _**number**_.\
-8- Get an integer from the user and replace it by the value of the _**number**_ by using **_cin_** and **>>** (_insertion operator_)\
-9- Display the _number_ with a text and insert a new line by _**endl**_.\
-10- **_return 0_**, if the program works correctly.\
+***Note***: When we want to store some information, we use a concept _variable_. The variables allows us to use them in the program, without repeating the information everywhere, varibales can also be referenced and manipulated easily. Any varibale must be _declared_ before use. In ***C++*** we need to specify the ***type of variable*** as well. Here is an example:\
+```
+int a = 20;
+```
+In the example, we declared a variable with the name `a` of the type `integer` and we initialized it as `20`.\
+
+Now that we have a basic understanding of variable declaration, let's back to code:\
+- We want to get an integer number from the user. So we need to store it somewhere to be able to use it afterwards. When it comes to storing some information, we need to use a `variable`. A varibale `must be declared before use`.\
+- We declare a variable `number` of the type `integer`.\
+- Then we get an integer from the user and assign it to the varibale `number` by using `cin` and `>>` (_insertion operator_).\
+- Finally, we display `number` with a text and insert a new line by `endl`.\
+- The `main()` function returns `0`, if the program compiled correctly.\
