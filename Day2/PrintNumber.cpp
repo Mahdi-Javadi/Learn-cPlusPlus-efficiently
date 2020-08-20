@@ -1,15 +1,13 @@
 #include<iostream>
-using std::cout;
-using std::cin;
-using std::endl;
 
 int main(){
-    cout << "Please enter an integer number:";
+    std::cout << "Please enter an integer number:";
     int number;
-    cin >> number;
-    cout << "You have entered: "<< number<<endl; 
-    cout<< " I want to add a new line.\n";// We can use \n to add a new line in the output
-    cout << "*****\n&&&&&\n$$$$$\n#####\n@@@@@\n";
+    std::cin >> number;
+    std::cout << "You have entered: "<< number<<std::endl; 
+// We can add new line in the out put by using: "\n". 
+    std::cout<< " I want to add a new line.\n";
+    std::cout << "*****\n&&&&&\n$$$$$\n#####\n@@@@@\n";
     return 0;
 }
 
