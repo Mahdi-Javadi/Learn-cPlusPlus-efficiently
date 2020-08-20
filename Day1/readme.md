@@ -5,10 +5,10 @@ We can write C++ codes using terminal or [IDE][ref_ide]s. This program is writte
 ## Steps:
 
 1. Open a terminal
-2. Generate an editor: `gedit helloWorld.cpp`
+2. Open the editor: `gedit helloWorld.cpp`
 3. Write down the code in the editor
 4. Save the changes and close the editor
-5. Now you need to execute your file, this can be done by any compiler, e.g. `g++`, `gcc`
+5. Now you need to execute your file, this can be done by any compiler, e.g. `g++`, `clang++`.
 6. Make an executable file in the terminal : `g++ helloWorld.cpp -o helloWorld_ExFile`
 7. Now that the executable file of the `helloWorld.cpp` is generated
 8. It can be executed by:  `./helloWorld_ExFile`
