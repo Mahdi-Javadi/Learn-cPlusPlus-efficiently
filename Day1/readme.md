@@ -38,4 +38,6 @@ This is the first project in C++ in a terminal. Here is all you need to know:
 
 In this program, we display "Hello World!" on the output. Then we go to the next line.
 
+`[Home](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently)`            `[Next Step](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently/tree/master/Day2)`
+
 [ref_ide]: https://hackr.io/blog/cpp-ide
