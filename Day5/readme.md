@@ -21,4 +21,7 @@ we can access the elements of arrays with [index]
 All the steps are shown in the example.
 
 
+- [Previous Step](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently/tree/master/Day4)
+- [Home](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently)
+- [Next Step](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently/tree/master/Day6)
 
