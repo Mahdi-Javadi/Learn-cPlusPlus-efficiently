@@ -24,7 +24,7 @@ There exists different [datatypes](https://github.com/Mahdi-Javadi/Learn-cPlusPl
 
 Variables can be initialized :
 
-- Type1: using { }: curly brackets- ***It is recommended to use this method***
+- Type1: using { }: Curly brackets- ***It is recommended to use this method***
 - Type2: using =: Assignment operator
 
 Here is an example of the variable declaration with/without initialization.
