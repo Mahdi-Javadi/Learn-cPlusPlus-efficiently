@@ -14,9 +14,9 @@ Before start, let's have an **overview of the whole journey**:
 This journey is started with the [_Hello World_](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently/tree/master/Day1) project in [Day1](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently/tree/master/Day1), which basically just **display a text in the output**.
 
 
-In [Day2](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently/tree/master/Day1) we are going to **take an input from the user and display it on the screen.
+In [Day2](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently/tree/master/Day2) we are going to **get an input from the user and display it on the screen**.
 
-
+We will learn about variable declaration and comments in [Day3](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently/tree/master/Day3).
 We will continue with the data types and variable declerations and write a program that get an input from the user and display it.
 
 
