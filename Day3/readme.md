@@ -1,7 +1,9 @@
 # Variables and Comments
 
 ### Comments
-We can add comments in C++ by using __//__ . It is also possible to have multiple lines of comments (block comments) by writing your comments as : __/*__ YOUR COMMENTS __*/__, that can be seen as the following:
+We can add comments in C++ by using __//__ . 
+
+It is also possible to have multiple lines of comments (block comments) by writing your comments as : __/*__ YOUR COMMENTS __*/__, that can be seen as the following:
 ```
 /* We are going to decalre 
 an integer variable in C++.
@@ -22,7 +24,7 @@ There exists different [datatypes](https://github.com/Mahdi-Javadi/Learn-cPlusPl
 
 Variables can be initialized :
 
-- Type1: using { }: curly brackets- ***It is recommended to use this method***
+- Type1: using { }: Curly brackets- ***It is recommended to use this method***
 - Type2: using =: Assignment operator
 
 Here is an example of the variable declaration with/without initialization.
