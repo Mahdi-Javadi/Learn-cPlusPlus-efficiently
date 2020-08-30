@@ -1,7 +1,9 @@
 # Variables and Comments
 
 ### Comments
-We can add comments in C++ by using __//__ . It is also possible to have multiple lines of comments (block comments) by writing your comments as : __/*__ YOUR COMMENTS __*/__, that can be seen as the following:
+We can add comments in C++ by using __//__ . 
+
+It is also possible to have multiple lines of comments (block comments) by writing your comments as : __/*__ YOUR COMMENTS __*/__, that can be seen as the following:
 ```
 /* We are going to decalre 
 an integer variable in C++.
