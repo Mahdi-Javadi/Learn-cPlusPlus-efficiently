@@ -1,25 +1,27 @@
 # Instruction
 
-An array is a set of variables that all of them has the same type,e.g. integer, string etc.
+Conditional statements comes to play when we want to make the program capable of making decisions under certain conditions. 
 
-In C++ arrays are defined as the following:
+## If
 
-* data-type array-name [array-length] = {initialaztion}
-* _Example: int my_array [5] {10,20,30,40,50}_
+The __if__ staement executes the code block, if the condition is fulfilled and otherwise, the compiler just ignores it. Here is the syntax:
 
-
-We declared an array with the:
-* name: my_array
-* type: integer
-* size: 5 elements
-* initialized with {10,20,30,40,50}
-
-Accessing elements of an array:
-
-we can access the elements of arrays with [index] 
-
-All the steps are shown in the example.
-
+```
+if (condition) {
+    statements
+}
+```
+### Relational Operators
+Relational operators help us to evaluate the condition we are looking for. Here are the commonly used realational operators: 
+- <=: Smaller or equal to 
+    ```
+    a <= b 
+    ```
+    - **a** is smaller equal than **b**
+- >=
+- ==
+- !=
+__Note__: It is not necessary to use _indentation_, but it makes the code much more easier to read and follow the conditions. **Always use the indentation for a better code**.
 
 - [Previous Step](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently/tree/master/Day4)
 - [Home](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently)
