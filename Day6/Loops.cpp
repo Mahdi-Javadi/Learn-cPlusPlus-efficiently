@@ -14,7 +14,7 @@ int main(){
     }
     cout<< "======================\n";
     cout<< "EXAMPL2- FOR\n";  
-    for (int i {0}; i<5 ; i++){
+    for (int i {1}; i<5 ; i++){
         cout << i<<endl;        
     }
     cout<< "======================\n";

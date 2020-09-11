@@ -63,10 +63,10 @@ We use for loop when we know **the number of iterations**. Here is the syntax:
 
 ### Example 2
 
-Display 1 to 10 in the terminal.
+Display `1` to `5` in the terminal.
 ```
 int main(){
-    for (int i {0}; i<5 ; i++){
+    for (int i {1}; i<5 ; i++){
         cout << i<<endl;        
     }    
     return 0;
