@@ -42,6 +42,9 @@ Now that we have a basic understanding of variable declaration, let's back to co
 - Finally, we display `number` with a text and insert a new line by `endl`.
 - The `main()` function returns `0`, if the program compiled correctly.
 
+## How to run the codes online?
+You can use [Online shell](http://cpp.sh/) or [Online gdb](https://www.onlinegdb.com/online_c++_compiler) and copy the entire code in **.cpp file** in this lesson and see how the codes works and play with it. ***Do it!!!!***
+
 - [Previous Step](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently/tree/master/Day1)
 - [Home](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently)
 - [Next Step](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently/tree/master/Day3)

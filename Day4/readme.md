@@ -32,7 +32,8 @@ int main(){
     return 0;
 }
 ```
-
+## How to run the codes online?
+You can use [Online shell](http://cpp.sh/) or [Online gdb](https://www.onlinegdb.com/online_c++_compiler) and copy the entire code in **.cpp file** in this lesson and see how the codes works and play with it. ***Do it!!!!***
 
 - [Previous Step](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently/tree/master/Day3)
 - [Home](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently)

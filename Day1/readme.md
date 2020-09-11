@@ -38,6 +38,9 @@ This is the first project in C++ in a terminal. Here is all you need to know:
 
 In this program, we display "Hello World!" on the output. Then we go to the next line.
 
+## How to run the codes online?
+You can use [Online shell](http://cpp.sh/) or [Online gdb](https://www.onlinegdb.com/online_c++_compiler) and copy the entire code in **.cpp file** in this lesson and see how the codes works and play with it. ***Do it!!!!***
+
 - [Home](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently)
 
 - [Next Step](https://github.com/Mahdi-Javadi/Learn-cPlusPlus-efficiently/tree/master/Day2)
