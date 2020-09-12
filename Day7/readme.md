@@ -13,7 +13,43 @@ int var {0};
 ```
 Integers can be :
 - signed: both **negative** and **positive** whole numbers.
-- unsigned: just the **posirive** whole numbers.
+- unsigned: just the **positive** whole numbers.
+- short: Can store integers with `16` bits.
+- long: Can store integers with `32` bits. 
+- long long: Can store integers with `64` bits.
+```
+    int age {12};
+    cout <<"I am  "<< age<<" years old.\n";
+    short unsigned grade {65};
+    cout <<"My grade is "<< grade<< endl;
+    long big_number {204514487};
+    cout <<big_number<<" is a big number"<<endl;
+    long population {7811284993};
+    cout <<population<<" poople lives on earth."<<endl;
+```
+
+**Note1**: The **number of bits** depends on the operating system and compiler. 
+
+
+**Note2**: There is no need to type **signed** for the integers, while the default is sigend integer. 
+
+
+**Note3**: There is no need to type **int** for the integers of type **long, short, long long**. 
+
+
+**Overflow**: Overflow happens when we want to store a varible that needs more space than the data type we have specified. With different initialization method, `=` or `{}` we will get different message from compiler. 
+ 
+Here is an example, **Try them separately to see the warnings**:
+```
+    int overflow = 999999999999999;
+    cout << "The number is 999999999999999 but it displays"<< overflow<< endl; 
+```
+
+```
+    int overflow {999999999999999};
+    cout << "The number is 999999999999999 but it displays"<< overflow<< endl;  
+```
+This is why `{}` is prefered over `=` for the **inintialization**.
 
 ### Floating point numbers
 
@@ -24,13 +60,21 @@ Floating  point numbers can be of type:
 - double: 8 bytes
 - long double: 16 bytes
 
-## Charachters and Strings
+## Charachters
 
-These are the kind of data types that placed in `" "` or `' '`. They can be numbers or charachters. For **charachters** we use `' '` and for strings `" "`.
+These are the kind of data types that placed in `' '` and it can be number or charachter. For 
+```
+    char middle_name_character {'h'};
+    cout << "Your middle name charachter is " << middle_name_character<<"." <<endl;
+```
 
 ## Boolean
 
 This data types can take only two values, **TRUE**(1) or **FALSE**(0).
+```
+    bool is_monday {false};
+    cout << "Is today monday? "<< is_monday<<endl;
+```
 
 ## Arrays
 
