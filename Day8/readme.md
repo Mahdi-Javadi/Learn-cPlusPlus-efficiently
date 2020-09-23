@@ -23,6 +23,8 @@ Accessing elements of an array:
 
 we can access the elements of arrays with [index], which starts at `zero`.
 
+
+
 **Important note**: There is no **bound checking** by accessing the array elements by `[]`.
 
 ## Vectors 
